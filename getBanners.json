@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "message": "Успешно!",
+  "data": [
+    {
+      "id": 34,
+      "name": "Панчер",
+      "logo": "https://ftp1.optimedia.uz/images/name_logos/xvA6i98BOua4yNn1655790875JGxXrsm7Uxl0SeQ.webp",
+      "background": "https://ftp1.optimedia.uz/images/backgrounds/kxV8LvtCPjujDGP1655790875gMObwfrEE03jySc.webp",
+      "url": "films/11082",
+      "content_id": null
+    },
+    {
+      "id": 33,
+      "name": "Вертолет",
+      "logo": "https://ftp1.optimedia.uz/images/name_logos/UPn7vKaPw6zbnHp1655790782xN9csEhhfhjHvdC.webp",
+      "background": "https://ftp1.optimedia.uz/images/backgrounds/NmWjDeHv05kvok51655790782q1mWLhSq1D7UTJ6.webp",
+      "url": "films/11075",
+      "content_id": null
+    },
+    {
+      "id": 32,
+      "name": "Фантазии для взрослых",
+      "logo": "https://ftp1.optimedia.uz/images/name_logos/U5nyU8DqRI61ro51655789890Pyq7PrdAD9moxHK.webp",
+      "background": "https://ftp1.optimedia.uz/images/backgrounds/RdaUr2BhZZ4oCHy1655789890cCZwpsmlXJnptfZ.webp",
+      "url": "films/11085",
+      "content_id": null
+    },
+    {
+      "id": 31,
+      "name": "Гарри Хафт: Последний бой",
+      "logo": "https://ftp1.optimedia.uz/images/name_logos/UUzZLmyrUMRO1q91654767371r5tDNmu9V6zBuFM.webp",
+      "background": "https://ftp1.optimedia.uz/images/backgrounds/bMCUQhhVgFIy3XL1654767370XwKrVjTdRpSsnsC.webp",
+      "url": "films/9691",
+      "content_id": null
+    },
+    {
+      "id": 30,
+      "name": "9 Жизней",
+      "logo": "https://ftp1.optimedia.uz/images/name_logos/VFSIlPDYKtGGg4l1654766902BuO59p5ZOEqtBtA.webp",
+      "background": "https://ftp1.optimedia.uz/images/backgrounds/iQcNKPz8C0391qb1654766902w40COiOcFppzBx8.webp",
+      "url": "films/9950",
+      "content_id": null
+    }
+  ]
+}
