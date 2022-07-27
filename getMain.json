@@ -7,13 +7,6 @@
       "name": "Фильмы",
       "list": [
         {
-          "id": 11365,
-          "name": "Сахар, мед и перчик",
-          "orig_name": "Zucchero, miele e peperoncino",
-          "age": "18+",
-          "poster": "https://raw.githubusercontent.com/Saidikrom/img/Saidikrom/film/UTrJu306LgrjUxA1658561795fEy6OJ92vzUcWrD.jpg"
-        },
-        {
           "id": 11364,
           "name": "Эвакуаторщик",
           "orig_name": "Tow",
